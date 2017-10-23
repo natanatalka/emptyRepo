@@ -44,6 +44,12 @@
       "name": "cloud",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "Window",
+      "name": "window",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }
