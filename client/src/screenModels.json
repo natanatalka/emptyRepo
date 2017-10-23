@@ -44,7 +44,7 @@
     "comment": "Blank",
     "properties": {}
   },
-  "Plant": {
+  "Flower_Plant": {
     "type": "object",
     "comment": "Blank",
     "properties": {}

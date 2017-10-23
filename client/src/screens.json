@@ -14,6 +14,12 @@
       "folder": true,
       "screens": [
         {
+          "id": "Plant",
+          "name": "plant",
+          "sourceScreenId": "Blank",
+          "sourceAppId": "default"
+        },
+        {
           "id": "Login",
           "name": "Login",
           "sourceScreenId": "Login",
@@ -44,12 +50,6 @@
       "name": "cloud",
       "folder": true,
       "screens": []
-    },
-    {
-      "id": "Plant",
-      "name": "plant",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
     }
   ]
 }
