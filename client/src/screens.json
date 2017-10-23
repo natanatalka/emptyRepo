@@ -9,16 +9,17 @@
       "sourceAppId": "default"
     },
     {
-      "id": "Login",
-      "name": "Login",
-      "sourceScreenId": "Login",
-      "sourceAppId": "default"
-    },
-    {
       "id": "Flower",
       "name": "flower",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "Login",
+          "name": "Login",
+          "sourceScreenId": "Login",
+          "sourceAppId": "default"
+        }
+      ]
     },
     {
       "id": "Cloud",
