@@ -43,6 +43,12 @@
       "name": "ooo",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "Ooo",
+      "name": "ooo",
+      "folder": true,
+      "screens": []
     }
   ]
 }
