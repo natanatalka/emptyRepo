@@ -14,12 +14,6 @@
       "folder": true,
       "screens": [
         {
-          "id": "Login",
-          "name": "Login",
-          "sourceScreenId": "Login",
-          "sourceAppId": "default"
-        },
-        {
           "id": "Apple",
           "name": "Apple",
           "sourceScreenId": "Blank",
