@@ -24,6 +24,12 @@
           "name": "Apple",
           "sourceScreenId": "Blank",
           "sourceAppId": "default"
+        },
+        {
+          "id": "Fur",
+          "name": "fur",
+          "sourceScreenId": "Blank",
+          "sourceAppId": "default"
         }
       ]
     },
