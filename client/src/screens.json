@@ -30,12 +30,6 @@
           "name": "fur",
           "sourceScreenId": "Blank",
           "sourceAppId": "default"
-        },
-        {
-          "id": "Cup",
-          "name": "cup",
-          "sourceScreenId": "Blank",
-          "sourceAppId": "default"
         }
       ]
     },

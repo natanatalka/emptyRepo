@@ -38,10 +38,5 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
-  },
-  "Flower_Cup": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
   }
 }
