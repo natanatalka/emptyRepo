@@ -25,6 +25,12 @@
       "name": "cloud",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "Cloud",
+      "name": "cloud",
+      "folder": true,
+      "screens": []
     }
   ]
 }
