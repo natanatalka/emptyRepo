@@ -2,7 +2,6 @@
 import { Page } from 'ionic-angular/navigation/nav-util';
 import { MenuComponent } from './menu/menu.component';
 import { Blank_TabletLandscape } from '../pages/Blank/TabletLandscape/Blank';
-import { Flower_Plant_TabletLandscape } from '../pages/Flower/Plant/TabletLandscape/Plant';
 import { Flower_Login_TabletLandscape } from '../pages/Flower/Login/TabletLandscape/Login';
 import { Flower_Apple_TabletLandscape } from '../pages/Flower/Apple/TabletLandscape/Apple';
 import { Flower_Fur_TabletLandscape } from '../pages/Flower/Fur/TabletLandscape/Fur';
@@ -11,7 +10,6 @@ export class Screens {
   static declarations: Page[] = [
     MenuComponent,
     Blank_TabletLandscape,
-    Flower_Plant_TabletLandscape,
     Flower_Login_TabletLandscape,
     Flower_Apple_TabletLandscape,
     Flower_Fur_TabletLandscape,
@@ -20,9 +18,6 @@ export class Screens {
   static mapping = {
     'Blank': {
       TabletLandscape: Blank_TabletLandscape
-    },
-    'Flower_Plant': {
-      TabletLandscape: Flower_Plant_TabletLandscape
     },
     'Flower_Login': {
       TabletLandscape: Flower_Login_TabletLandscape
