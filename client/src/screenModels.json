@@ -28,5 +28,10 @@
         }
       }
     }
+  },
+  "Flower_Apple": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }
