@@ -6,6 +6,7 @@ import { Flower_Login_TabletLandscape } from '../pages/Flower/Login/TabletLandsc
 import { Flower_Apple_TabletLandscape } from '../pages/Flower/Apple/TabletLandscape/Apple';
 import { Flower_Fur_TabletLandscape } from '../pages/Flower/Fur/TabletLandscape/Fur';
 import { Flower_Cup_TabletLandscape } from '../pages/Flower/Cup/TabletLandscape/Cup';
+import { Plant_TabletLandscape } from '../pages/Plant/TabletLandscape/Plant';
 export class Screens {
   static declarations: Page[] = [
     MenuComponent,
@@ -13,7 +14,8 @@ export class Screens {
     Flower_Login_TabletLandscape,
     Flower_Apple_TabletLandscape,
     Flower_Fur_TabletLandscape,
-    Flower_Cup_TabletLandscape
+    Flower_Cup_TabletLandscape,
+    Plant_TabletLandscape
   ];
   static mapping = {
     'Blank': {
@@ -30,6 +32,9 @@ export class Screens {
     },
     'Flower_Cup': {
       TabletLandscape: Flower_Cup_TabletLandscape
+    },
+    'Plant': {
+      TabletLandscape: Plant_TabletLandscape
     }
   }
 }

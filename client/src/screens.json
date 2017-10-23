@@ -44,6 +44,12 @@
       "name": "cloud",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "Plant",
+      "name": "plant",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }
