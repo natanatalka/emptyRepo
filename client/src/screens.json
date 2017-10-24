@@ -56,7 +56,14 @@
       "id": "Clould",
       "name": "Clould",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "Blank1",
+          "name": "Blank1",
+          "sourceScreenId": "Blank",
+          "sourceAppId": "default"
+        }
+      ]
     }
   ]
 }
