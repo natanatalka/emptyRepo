@@ -64,6 +64,12 @@
       "name": "rain",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "Rain",
+      "name": "rain",
+      "folder": true,
+      "screens": []
     }
   ]
 }
