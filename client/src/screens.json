@@ -71,6 +71,12 @@
           "sourceAppId": "default"
         }
       ]
+    },
+    {
+      "id": "Screen1",
+      "name": "Screen1",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }
