@@ -50,14 +50,7 @@
       "id": "Clould",
       "name": "Clould",
       "folder": true,
-      "screens": [
-        {
-          "id": "Blank1",
-          "name": "Blank1",
-          "sourceScreenId": "Blank",
-          "sourceAppId": "default"
-        }
-      ]
+      "screens": []
     },
     {
       "id": "Rain",
