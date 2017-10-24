@@ -53,5 +53,10 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
+  },
+  "Test1": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }
