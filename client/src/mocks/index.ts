@@ -1,4 +1,3 @@
-export * from './222/index';
 export * from './Cloud_Blank1/index';
 export * from './Clould_Blank1/index';
 export * from './Flower_Apple/index';
