@@ -71,6 +71,12 @@
           "sourceAppId": "default"
         }
       ]
+    },
+    {
+      "id": "Nata1",
+      "name": "Nata1",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }

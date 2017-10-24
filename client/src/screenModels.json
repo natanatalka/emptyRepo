@@ -53,5 +53,10 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
+  },
+  "Nata1": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }
