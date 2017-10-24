@@ -58,6 +58,12 @@
           "sourceAppId": "default"
         }
       ]
+    },
+    {
+      "id": "Rain",
+      "name": "rain",
+      "folder": true,
+      "screens": []
     }
   ]
 }
