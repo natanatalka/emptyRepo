@@ -9,6 +9,7 @@ import { Cloud_Blank1_TabletLandscape } from '../pages/Cloud/Blank1/TabletLandsc
 import { Clould_Blank1_TabletLandscape } from '../pages/Clould/Blank1/TabletLandscape/Blank1';
 import { Rain_1_TabletLandscape } from '../pages/Rain/1/TabletLandscape/1';
 import { Nata1_TabletLandscape } from '../pages/Nata1/TabletLandscape/Nata1';
+import { Nata2_TabletLandscape } from '../pages/Nata2/TabletLandscape/Nata2';
 export class Screens {
   static declarations: Page[] = [
     MenuComponent,
@@ -19,7 +20,8 @@ export class Screens {
     Cloud_Blank1_TabletLandscape,
     Clould_Blank1_TabletLandscape,
     Rain_1_TabletLandscape,
-    Nata1_TabletLandscape
+    Nata1_TabletLandscape,
+    Nata2_TabletLandscape
   ];
   static mapping = {
     'Flower_Login': {
@@ -45,6 +47,9 @@ export class Screens {
     },
     'Nata1': {
       TabletLandscape: Nata1_TabletLandscape
+    },
+    'Nata2': {
+      TabletLandscape: Nata2_TabletLandscape
     }
   }
 }
