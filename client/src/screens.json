@@ -63,7 +63,14 @@
       "id": "Rain",
       "name": "rain",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "1",
+          "name": "1",
+          "sourceScreenId": "Blank",
+          "sourceAppId": "default"
+        }
+      ]
     }
   ]
 }
