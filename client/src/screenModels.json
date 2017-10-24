@@ -48,10 +48,5 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
-  },
-  "Rain_1": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
   }
 }
