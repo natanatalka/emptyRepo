@@ -53,10 +53,5 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
-  },
-  "Screen1": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
   }
 }

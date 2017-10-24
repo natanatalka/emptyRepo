@@ -5,4 +5,3 @@ export * from './Flower_Cup/index';
 export * from './Flower_Fur/index';
 export * from './Flower_Login/index';
 export * from './Rain_1/index';
-export * from './Screen1/index';
