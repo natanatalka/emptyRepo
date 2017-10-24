@@ -9,6 +9,7 @@ import { Cloud_Blank1_TabletLandscape } from '../pages/Cloud/Blank1/TabletLandsc
 import { Clould_Blank1_TabletLandscape } from '../pages/Clould/Blank1/TabletLandscape/Blank1';
 import { Rain_1_TabletLandscape } from '../pages/Rain/1/TabletLandscape/1';
 import { 111 _TabletLandscape } from '../pages/111/TabletLandscape/111';
+import { 222 _TabletLandscape } from '../pages/222/TabletLandscape/222';
 export class Screens {
   static declarations: Page[] = [
     MenuComponent,
@@ -19,7 +20,8 @@ export class Screens {
     Cloud_Blank1_TabletLandscape,
     Clould_Blank1_TabletLandscape,
     Rain_1_TabletLandscape,
-    111 _TabletLandscape
+    111 _TabletLandscape,
+    222 _TabletLandscape
   ];
   static mapping = {
     'Flower_Login': {
@@ -45,6 +47,9 @@ export class Screens {
     },
     '111': {
       TabletLandscape: 111 _TabletLandscape
+    },
+    '222': {
+      TabletLandscape: 222 _TabletLandscape
     }
   }
 }
