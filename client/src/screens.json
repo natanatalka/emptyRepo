@@ -51,6 +51,12 @@
           "sourceAppId": "default"
         }
       ]
+    },
+    {
+      "id": "Clould",
+      "name": "Clould",
+      "folder": true,
+      "screens": []
     }
   ]
 }
